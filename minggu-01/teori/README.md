@@ -1,7 +1,7 @@
 Teori Workshop Python Pertemuan 1
 
 Bab 1
-    Python adalah suatu bahasa pemrograman yang banyak digunakan untuk mencari dan menggantikan file dengan banyak nomor dan teks,
+Python adalah suatu bahasa pemrograman yang banyak digunakan untuk mencari dan menggantikan file dengan banyak nomor dan teks,
 atau mengubah nama dan menyusun ulang file foto dengan jumlah yang banyak.
 Walaupun simpel dan mudah digunakan, bukan berarti Python hanya memiliki fitur yang sangat terbatas,
 sebaliknya Python merupakan bahasa pemrograman yang memiliki fitur yang sangat banyak dan beragam dengan komunitas yang masih sangat aktif hingga saat ini.
@@ -16,7 +16,7 @@ Beberapa kelebihan yang membuat python menjadi bahasa pemrograman pilihan adalah
 
 
 Bab 2
-    Penerjemah Python biasanya diinstall pada direktori tertentu dengan menggunakan perintah pythin3.11 pada windows shell. Penerjemah python memiliki line editor dengan tambahan fitur
+Penerjemah Python biasanya diinstall pada direktori tertentu dengan menggunakan perintah pythin3.11 pada windows shell. Penerjemah python memiliki line editor dengan tambahan fitur
 interactive editing, history subtitution, dan code completion pada sistem yang mendukung library GNU Readline.
 Untuk memeriksa apakah sistem mendukung command line editing tersebut dapat menekan tombol Control + P pada promp python.
 Jika terdengar suara beep, maka sudah mendukung atau memiliki command line editing.
