@@ -4,7 +4,8 @@ reprlib.repr(set('supercalifragilisticexpialidocious'))
 # "{'a', 'c', 'd', 'e', 'f', 'g', ...}"         output
 
 
-# Modul pprint menawarkan kontrol yang lebih canggih atas pencetakan objek bawaan dan yang ditentukan pengguna dengan cara yang dapat dibaca oleh juru bahasa
+# Modul pprint menawarkan kontrol yang lebih canggih atas pencetakan objek bawaan dan yang ditentukan pengguna dengan
+# cara yang dapat dibaca oleh juru bahasa
 import pprint
 t = [[[['black', 'cyan'], 'white', ['green', 'red']], [['magenta',
     'yellow'], 'blue']]]
