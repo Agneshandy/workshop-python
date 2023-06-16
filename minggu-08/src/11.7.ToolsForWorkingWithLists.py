@@ -7,7 +7,8 @@ a[1:3]
 array('H', [10, 700])
 
 
-# Modul collection smenyediakan deque() objek yang seperti daftar dengan penambahan dan kemunculan yang lebih cepat dari sisi kiri tetapi pencarian yang lebih lambat di tengah
+# Modul collection smenyediakan deque() objek yang seperti daftar dengan penambahan dan kemunculan yang lebih cepat dari sisi kiri
+# tetapi pencarian yang lebih lambat di tengah
 from collections import deque
 d = deque(["task1", "task2", "task3"])
 d.append("task4")
@@ -23,7 +24,8 @@ def breadth_first_search(unsearched):
         unsearched.append(m)
 
 
-# Selain implementasi daftar alternatif, perpustakaan juga menawarkan alat lain seperti bisect modul dengan fungsi untuk memanipulasi daftar yang diurutkan
+# Selain implementasi daftar alternatif, perpustakaan juga menawarkan alat lain seperti bisect modul dengan fungsi untuk memanipulasi
+# daftar yang diurutkan
 import bisect
 scores = [(100, 'perl'), (200, 'tcl'), (400, 'lua'), (500, 'python')]
 bisect.insort(scores, (300, 'ruby'))
